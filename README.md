@@ -1,4 +1,4 @@
-A ToDo List without Redux.
+A ToDo List With Reactjs And GraphQl.
 
 ## Available Scripts
 
